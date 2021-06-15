@@ -1,0 +1,11 @@
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\bin\Debug\entrenamientoDePerceptrones.exe.config
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\bin\Debug\entrenamientoDePerceptrones.exe
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\bin\Debug\entrenamientoDePerceptrones.pdb
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.csprojAssemblyReference.cache
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.Form1.resources
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.Form2.resources
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.Properties.Resources.resources
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.csproj.GenerateResource.cache
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.csproj.CoreCompileInputs.cache
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.exe
+C:\Users\qiqe-\source\repos\entrenamientoDePerceptrones\entrenamientoDePerceptrones\obj\Debug\entrenamientoDePerceptrones.pdb
